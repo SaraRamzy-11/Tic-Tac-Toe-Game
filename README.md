@@ -25,13 +25,13 @@ This project is a desktop implementation of the classic Tic-Tac-Toe game. It all
 📸 Screenshots
 
 Main Game Screen
-"Tic-Tac-Toe Main Screen" (Screenshots/MainScreen.png)
+![Tic-Tac-Toe Main Screen](ScreenShots/MainScreen.png)
 
 Game Screen
-"Tic-Tac-Toe Main Screen" (Screenshots/GameScreen.png)
+![Tic-Tac-Toe Game Screen](ScreenShots/GameScreen.png)
 
 Game Over Screen
-"Tic-Tac-Toe Main Screen" (Screenshots/GameOver.png)
+![Tic-Tac-Toe Game Over Screen](ScreenShots/GameOver.png)
 
 ▶️ How to Run
 
